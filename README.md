@@ -4,6 +4,10 @@
 
 • Real Languages: English // Coding Languages: HTML, CSS & JS
 
-• Social Media: Kaize // MyAnimeList // Telegram // Twitter // WhatPulse
-
-• Favorite Anime: Cyberpunk // Don't Toy With Me Miss Nagatoro // Dororo // EyeShield 21 // Fairy Tail // Horimiya // One Piece // Rising Of The Shield Hero // Sword Art Online // Your Name
+• Social Media:
+• [Website](https://whatscps.com)
+• [Kaize](https://kaize.io/user/luffy)
+• [MyAnimeList](https://myanimelist.net/profile/BritishBloke)
+• [Telegram](https://t.me/whatscps)
+• [Twitter](https://twitter.com/whatscps)
+• [WhatPulse](https://whatpulse.org/JME)
