@@ -13,7 +13,6 @@ Focused on privacy & internet security I've been online since early 2008 and hav
 + Coding
 + Privacy
 + Encryption
-+ Open Source
 
 # "Important" Links
 + [jme.bio](https://jme.bio)
