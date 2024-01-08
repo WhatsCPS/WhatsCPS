@@ -15,9 +15,10 @@ Private:
 
 # Social Media I use
 + [A more Updated list](https://jme.bio/contact)
-+ [MyAnimeList](https://myanimelist.net/profile/WhatsCPS)
 + [Discord](https://discord.gg/fYw3ew3geS)
++ [MyAnimeList](https://myanimelist.net/profile/WhatsCPS)
++ [Steam](https://steamcommunity.com/id/WhatsCPS/)
 + [Telegram](https://t.me/whatscps)
 + [Twitter](https://twitter.com/whatscps)
-+ [Steam](https://steamcommunity.com/id/WhatsCPS/)
+
 + [Email](mailto:jamie@jme.bio)
