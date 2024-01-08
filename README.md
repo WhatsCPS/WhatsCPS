@@ -5,18 +5,19 @@
 
 Focused on privacy & internet security I've been online since early 2008 and have seen a lot, loads of change for good making the internet easier to use with more free tools than you could fathom before the internet, but as it's "free" our privacy & data is taken as value. I wish to minimize the impact I have on all these companies & limit the amount of data that anyone can have on me from now on.
 
-# Hobbies/Intrests include
-+ Gym
-+ Piracy
-+ Anime
-+ Manga
-+ Coding
-+ Privacy
-+ Encryption
-
-# "Important" Links
+# Projects I'm working on
+Public:
 + [jme.bio](https://jme.bio)
+
+Private:
++ A community website for a mini-game on the Hypixel Network
++ A Discord bot which will hopefully replace all other Discord bots I'll ever need in my own personal/groupd servers.
+
+# Social Media I use
++ [A more Updated list](https://jme.bio/contact)
 + [MyAnimeList](https://myanimelist.net/profile/WhatsCPS)
-+ [Revolt](https://rvlt.gg/04PFRNn8)
++ [Discord](https://discord.gg/fYw3ew3geS)
 + [Telegram](https://t.me/whatscps)
 + [Twitter](https://twitter.com/whatscps)
++ [Steam](https://steamcommunity.com/id/WhatsCPS/)
++ [Email](mailto:jamie@jme.bio)
