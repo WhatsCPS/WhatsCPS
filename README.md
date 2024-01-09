@@ -7,7 +7,7 @@ Focused on privacy & internet security I've been online since early 2008 and hav
 
 # Projects I'm working on
 Public:
-+ [jme.bio](https://jme.moe)
++ [jme.moe](https://jme.moe)
 
 Private:
 + A community website for a mini-game on the Hypixel Network
