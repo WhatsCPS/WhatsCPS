@@ -7,14 +7,14 @@ Focused on privacy & internet security I've been online since early 2008 and hav
 
 # Projects I'm working on
 Public:
-+ [jme.bio](https://jme.bio)
++ [jme.bio](https://jme.moe)
 
 Private:
 + A community website for a mini-game on the Hypixel Network
 + A Discord bot which will hopefully replace all other Discord bots I'll ever need in my own personal/groupd servers.
 
 # Social Media I use
-+ [A more Updated list](https://jme.bio/contact)
++ [A more Updated list](https://jme.moe)
 + [Discord](https://discord.gg/fYw3ew3geS)
 + [MyAnimeList](https://myanimelist.net/profile/WhatsCPS)
 + [Steam](https://steamcommunity.com/id/WhatsCPS/)
