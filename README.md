@@ -20,4 +20,4 @@ Private:
 + [Steam](https://steamcommunity.com/id/WhatsCPS/)
 + [Telegram](https://t.me/whatscps)
 + [Twitter](https://twitter.com/whatscps)
-+ [Email](mailto:jamie@jme.bio)
++ [Email](mailto:jamie@jme.moe)
