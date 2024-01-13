@@ -8,9 +8,9 @@ Focused on privacy & internet security I've been online since early 2008 and hav
 # Projects I'm working on
 Public:
 + [jme.moe](https://jme.moe)
++ [blockingdead.net](https://blockingdead.net)
 
 Private:
-+ A community website for a mini-game on the Hypixel Network
 + A Discord bot which will hopefully replace all other Discord bots I'll ever need in my own personal/groupd servers.
 
 # Social Media I use
