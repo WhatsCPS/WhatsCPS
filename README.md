@@ -17,7 +17,7 @@ Private:
 + [A more Updated list](https://jme.moe/contact)
 + [Discord](https://jme.moe/discord)
 + [MyAnimeList](https://myanimelist.net/profile/jme-moe)
-+ [Steam](https://steamcommunity.com/id/WhatsCPS/)
++ [Steam](https://steamcommunity.com/id/jme-moe/)
 + [Telegram](https://t.me/jmemoe)
 + [Twitter](https://twitter.com/whatscps)
 + [Email](mailto:jamie@jme.moe)
