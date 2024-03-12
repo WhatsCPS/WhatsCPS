@@ -15,8 +15,8 @@ Private:
 
 # Social Media I use
 + [A more Updated list](https://jme.moe/contact)
-+ [Discord](https://discord.gg/fYw3ew3geS)
-+ [MyAnimeList](https://myanimelist.net/profile/WhatsCPS)
++ [Discord](https://jme.moe/discord)
++ [MyAnimeList](https://myanimelist.net/profile/jme-moe)
 + [Steam](https://steamcommunity.com/id/WhatsCPS/)
 + [Telegram](https://t.me/whatscps)
 + [Twitter](https://twitter.com/whatscps)
