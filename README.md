@@ -18,6 +18,6 @@ Private:
 + [Discord](https://jme.moe/discord)
 + [MyAnimeList](https://myanimelist.net/profile/jme-moe)
 + [Steam](https://steamcommunity.com/id/WhatsCPS/)
-+ [Telegram](https://t.me/whatscps)
++ [Telegram](https://t.me/jmemoe)
 + [Twitter](https://twitter.com/whatscps)
 + [Email](mailto:jamie@jme.moe)
