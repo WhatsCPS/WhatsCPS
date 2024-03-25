@@ -6,7 +6,6 @@
 I like anime I've seen over 600 different anime & I like to collect manga I've spent so far $5,000+ and spent $2,000+ on anime figures :3
 
 # Projects I'm working on
-Public:
 + [jme.moe](https://jme.moe)
 + [blockingdead.net](https://blockingdead.net)
 
