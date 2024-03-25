@@ -1,23 +1,17 @@
 ## JME / Jamie
 + Location: East-Midlands, UK
 + Birthday: April 2001
-+ Email: jamie@jme.moe
++ Email: jamie@jme.moe - [Public Key](https://jme.moe/contact)
 
-Focused on privacy & internet security I've been online since early 2008 and have seen a lot, loads of change for good making the internet easier to use with more free tools than you could fathom before the internet, but as it's "free" our privacy & data is taken as value. I wish to minimize the impact I have on all these companies & limit the amount of data that anyone can have on me from now on.
+I like anime I've seen over 600 different anime & I like to collect manga I've spent so far $5,000+ and spent $2,000+ on anime figures :3
 
 # Projects I'm working on
 Public:
 + [jme.moe](https://jme.moe)
 + [blockingdead.net](https://blockingdead.net)
 
-Private:
-+ A Discord bot which will hopefully replace all other Discord bots I'll ever need in my own personal/groupd servers.
-
 # Social Media I use
-+ [A more Updated list](https://jme.moe/contact)
-+ [Discord](https://jme.moe/discord)
++ [Matrix](https://matrix.to/#/@jmemoe:matrix.org)
 + [MyAnimeList](https://myanimelist.net/profile/jme-moe)
-+ [Steam](https://steamcommunity.com/id/jme-moe/)
++ [Signal](https://signal.me/#eu/cyiuF2jguBK+fnX+MW84gDMR5b2XhyP08wkj0Y0tw2hoX0Q/QsRLrIGvHwfHbBZT")
 + [Telegram](https://t.me/jmemoe)
-+ [Twitter](https://twitter.com/whatscps)
-+ [Email](mailto:jamie@jme.moe)
