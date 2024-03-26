@@ -11,6 +11,6 @@ I like anime I've seen over 600 different anime & I like to collect manga I've s
 
 # Social Media I use
 + [Matrix](https://matrix.to/#/@jmemoe:matrix.org)
-+ [MyAnimeList](https://myanimelist.net/profile/jme-moe)
++ [MyAnimeList](https://myanimelist.net/profile/jme)
 + [Signal](https://signal.me/#eu/cyiuF2jguBK+fnX+MW84gDMR5b2XhyP08wkj0Y0tw2hoX0Q/QsRLrIGvHwfHbBZT")
 + [Telegram](https://t.me/jmemoe)
